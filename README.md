@@ -59,8 +59,11 @@ Overall, the results suggest that volatility-based trading strategies require ca
 - `paper/`  
   Contains the full project report with methodology, empirical results, and backtesting analysis.
 
-- `notebooks/` *(to be expanded)*  
+- `analysis/` *(to be organised and expanded)*  
   Research notebooks used for volatility modeling, regression analysis, and trading simulations.
+
+- `data/` *(sourced from bloomberg, yahoo finance, fed data, and yet to be organised)*  
+  Market and options data sourced from Bloomberg, including equity prices, option chains, and implied volatility measures for AAPL and WMT
 
 ---
 
